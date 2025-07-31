@@ -12,7 +12,8 @@ MENTOR: NEELA SANTOSH
 
 ##DESCRIPTION OF THE TASK 2: SENTIMENT ANALYSIS WITH NLP
 
-The primary objective of this code is to perform sentiment classification on customer reviews using natural language processing (NLP) techniques along with machine learning. It aims to automatically determine whether a review expresses a positive or negative sentiment. This is achieved by converting textual data into numerical format using TF-IDF (Term Frequency–Inverse Document Frequency) and feeding that into a Logistic Regression classifier. The model is trained to identify patterns in the text that are indicative of sentiment polarity and make accurate predictions on new, unseen reviews.
+The primary objective of this code is to perform sentiment classification on customer reviews using natural language processing (NLP) techniques along with machine learning. It aims to automatically determine whether a review expresses a positive or negative sentiment. This is achieved by converting textual data into numerical format using TF-IDF (Term Frequency–Inverse Document Frequency) and feeding that 
+into a Logistic Regression classifier. The model is trained to identify patterns in the text that are indicative of sentiment polarity and make accurate predictions on new, unseen reviews.
 
 To accomplish this, several Python libraries are used. The pandas library plays a crucial role in handling and manipulating tabular data, such as the dataset of reviews. NumPy is used for general numerical computations, although its role is minimal in this particular script. For visualization, matplotlib.pyplot and seaborn are used to display the confusion matrix in a graphical format. Most importantly, scikit-learn provides essential machine learning utilities, including tools to split data (train_test_split), transform text data, train models (Logistic Regression), and evaluate them (classification_report, accuracy_score, and confusion_matrix).
 
