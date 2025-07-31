@@ -49,3 +49,6 @@ for understanding and classifying human opinions expressed in text format.
 
 ##OUTPUT 
 
+<img width="1625" height="842" alt="Image" src="https://github.com/user-attachments/assets/787b0649-6192-422e-bf44-59da0c171ff9" />
+
+<img width="1615" height="800" alt="Image" src="https://github.com/user-attachments/assets/7e01d13a-6540-466b-9fa6-4fbb786c1666" />
