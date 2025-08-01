@@ -44,12 +44,9 @@ extended to analyze sentiments in news articles, political opinions, and even mo
 
 While this code demonstrates the core concept using a small dataset, the same approach can be scaled to thousands or millions of reviews. Additional improvements can be made by incorporating bigrams or trigrams into TF-IDF, tuning hyperparameters of the logistic regression model, or even replacing the model with more advanced deep learning techniques such as recurrent neural networks (RNNs) or transformer-based models like BERT. These enhancements can further improve accuracy and robustness in real-world applications.
 
-In conclusion, this sentiment analysis project demonstrates a full NLP pipeline: from preprocessing raw text data to transforming it with TF-IDF, training a machine learning model, evaluating its performance, 
-and visualizing results. The modular nature of the code makes it adaptable to different types of text classification tasks. With relatively simple tools, it is possible to build a powerful and practical model 
-for understanding and classifying human opinions expressed in text format.
+By concluding, this task is done by using chatgpt.com and this sentiment analysis project demonstrates a full NLP pipeline: from preprocessing raw text data to transforming it with TF-IDF, training a machine learning model, evaluating its performance, and visualizing results. The modular nature of the code makes it adaptable to different types of text classification tasks. With relatively simple tools, it is possible to build a powerful and practical model for understanding and classifying human opinions expressed in text format.
 
 ##OUTPUT 
 
 <img width="1625" height="842" alt="Image" src="https://github.com/user-attachments/assets/787b0649-6192-422e-bf44-59da0c171ff9" />
-
 <img width="1615" height="800" alt="Image" src="https://github.com/user-attachments/assets/7e01d13a-6540-466b-9fa6-4fbb786c1666" />
